@@ -1,5 +1,5 @@
 
-<h1 align="center">Hola 👋! Soy Laura Sanchez</h1> 
+<h1 align="center">Hola 👋! Soy Laura Sánchez</h1> 
 <h3 align="center">💻 Desarrolladora web FullStack junior - En busca de empleo</h3>
 
 - 📚 Reforzando mis conocimientos sobre **React, JavaScript, NodeJs y el stack tecnológico**
