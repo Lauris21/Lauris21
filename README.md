@@ -2,20 +2,22 @@
 <h1 align="center">Hola 👋! Soy Laura Sanchez</h1> 
 <h3 align="center">💻 Desarrolladora web FullStack junior - En busca de empleo</h3>
 
-- 🤓 Aprendiendo **TypeScript**
+- 📚 Reforzando mis conocimientos sobre **React, JavaScript, NodeJs y el stack tecnológico**
 
-- 📚 Reforzando mis conocimientos sobre **React, JavaScript, NodeJs**
+- 🔎 Investigar y ampliar conocimientos y principios sobre buenas prácticas y metodologías de desarrollo.
+
+- 🤓 Aprendiendo **TypeScript**
 
 - 👨‍💻 Mis trabajos están disponibles en [https://laura-sanchez.vercel.app/](https://laura-sanchez.vercel.app/)
 
 - 🎮 Apasionada por los videojuegos.
 
-- 🌱 Me gusta el deporte y la naturaleza.
+- 🌱 Amante del deporte y la naturaleza.
 
 - 📫 Puedes contactar conmigo mediante **laurasanchez.develop@gmail.com**
 
 
-<h3 align="center">Conocimientos sobre:</h3>
+<h3>Conocimientos sobre:</h3>
 
 <h4>Lenguajes</h4>
 
