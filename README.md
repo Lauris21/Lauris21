@@ -6,7 +6,7 @@
 
 - 🔎 Investigar y ampliar conocimientos y principios sobre buenas prácticas y metodologías de desarrollo.
 
-- 🤓 Aprendiendo **TypeScript**
+- 🤓 Aprendiendo **TypeScript y Testing**
 
 - 👨‍💻 Mis trabajos están disponibles en [https://laura-sanchez.vercel.app/](https://laura-sanchez.vercel.app/)
 
