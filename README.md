@@ -1,12 +1,10 @@
 
 <h1 align="center">Hola 👋! Soy Laura Sánchez</h1> 
-<h3 align="center">💻 Desarrolladora web FullStack junior - En busca de empleo</h3>
+<h3 align="center">💻 Desarrolladora web FullStack</h3>
+<h3 align="center">💻 Trabajando actualmente en Neoland School como teacher</h3>
 
-- 📚 Reforzando mis conocimientos sobre **React, JavaScript, NodeJs y el stack tecnológico**
 
 - 🔎 Investigar y ampliar conocimientos y principios sobre buenas prácticas y metodologías de desarrollo.
-
-- 🤓 Aprendiendo **TypeScript y Testing**
 
 - 👨‍💻 Mis trabajos están disponibles en [https://laura-sanchez.vercel.app/](https://laura-sanchez.vercel.app/)
 
